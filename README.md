@@ -1,2 +1,2 @@
 My first readme
-Welcome to my software engineering journet
+Welcome to my software engineering journey
